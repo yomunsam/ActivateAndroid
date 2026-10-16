@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">激活 Android</string>
+    <string name="app_name_en">Activate Android</string>
+    <string name="default_title">激活 Android</string>
+    <string name="default_subtitle">转到“设置”以激活 Android。</string>
+    <string name="notification_channel_name">水印叠加层</string>
+    <string name="notification_channel_desc">保持激活水印叠加层在前台运行</string>
+    <string name="notification_title">激活 Android 水印</string>
+    <string name="notification_text">叠加层运行中 · 点击打开设置</string>
+    <string name="overlay_permission_needed">需要悬浮窗权限</string>
+    <string name="grant_overlay">授予悬浮窗权限</string>
+    <string name="start_overlay">启动水印</string>
+    <string name="stop_overlay">停止水印</string>
+</resources>
